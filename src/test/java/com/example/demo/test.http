@@ -1,0 +1,17 @@
+GET http://localhost:8080/student
+Accept: application/json
+
+###
+
+
+GET http://localhost:8080/profs
+Accept: application/json
+
+###
+
+
+GET http://localhost:8080/prof
+Accept: application/json
+
+###
+
